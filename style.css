@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+:root {
+    --primary-color:#22d3ee;
+    --dark-grey:#f1f5f9;
+}
+
+h1{
+    color: var(--primary-color);
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: var(--dark-grey);
+}
+
+table {
+
+    text-align: center;
+    margin: auto;
+    
+}
+
+table,
+th,
+td {
+    border: 1px solid var(--primary-color);
+    padding:1rem;
+    border-collapse: collapse;
+    
+}
+
+caption {
+    padding: 1rem;
+}
+
+#check-button {
+    display: block;
+    margin: auto;
+    padding: 0.5rem 2rem;
+    border-radius: 1rem;
+    border:1px solid transparent;
+    background-color:var(--primary-color);
+    margin-top: 1rem;
+    cursor: pointer;
+    color: white;
+
+
+}
+
+#next-button {
+    display: block;
+    margin: auto;
+    padding: 0.5rem 2rem;
+    border-radius: 1rem;
+    border:1px solid transparent;
+    background-color: var(--primary-color);
+    margin-top: 1rem;
+    cursor: pointer;
+    color: white;
+}
+
+#bill-amount {
+    display: block;
+    margin:auto;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    border:2px solid var(--primary-color);;
+    background-color: white;
+    padding: 0.5rem 1rem;
+
+
+   
+}
+#cash-given {
+    display: block;
+    margin:auto;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    border:2px solid var(--primary-color);
+    background-color: white;
+    padding: 0.5rem 1rem;
+}
+label {
+    display: block;
+    padding: 1rem;
+    font-weight:1rem;
+    font-size: 1.6rem;
+}
+
+div {
+    text-align: center;
+}
+
+caption {
+    font-weight:1rem;
+    font-size: 1.6rem;
+}
