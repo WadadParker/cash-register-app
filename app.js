@@ -40,8 +40,11 @@ checkButton.addEventListener("click", function computeChange()
         var finalAmount= Number(cashGiven.value) - Number(billAmount.value);
         calculateChange(finalAmount);
     }
+    else if(Number(cashGiven.value)===Number(billAmount.value)) {
+        displayMessageFn("No Change required to be given");
+    }
     else {
-        displayMessageFn("Cash amount should be higher than bill amount for valid change");
+        displayMessageFn("Please enter valid Cash amount to calculate the valid change");
     }
 }
     else {
