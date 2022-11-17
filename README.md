@@ -27,7 +27,7 @@
 
 ## Connect with me
 
-- [LinkedIn](https://in.linkedin.com/in/wadad-parker-5570671b5)
+- [LinkedIn](https://in.linkedin.com/in/wadad-parker)
 - [Twitter](https://twitter.com/wadadparker)
 - [Instagram](https://www.instagram.com/wadad_parker/)
 - [GitHub](https://github.com/WadadParker)
