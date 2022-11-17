@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-![Funny Translation](https://raw.githubusercontent.com/WadadParker/cash-register/main/images/cash-register.PNG)
+![Funny Translation](https://raw.githubusercontent.com/WadadParker/cash-register-app/main/images/cash-register.PNG)
 
 ## Connect with me
 
